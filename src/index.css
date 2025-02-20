@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+body{
+   max-width: 1050px;
+   margin: auto;
+}
+.footer {
+   display: flex;
+   padding: 10px;
+   color: black;
+   padding: 0px;
+   overflow-y: hidden;
+}
+.footer-left{
+   margin-left: auto;
+
+}
+ .navbar{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center; 
+    background-color: #ffffff;
+    margin: 0px;
+    padding: 0px;
+    overflow-y: hidden;   
+
+   }
+   .navbar ul li:hover{
+    cursor: pointer;
+    
+   }
+   .navbar ul, .footer ul{
+    display: flex;
+    gap: 20px;
+    padding: 15px;
+
+   }
+
+
