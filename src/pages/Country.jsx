@@ -1,12 +1,11 @@
+import BoxLayout from "../components/BoxLayout/BoxLayout";
 import "../index.css"
 
 const Country = () =>{
 
     return <>
     
-    
-<h1>Country</h1>
-    
+     <BoxLayout/>    
     </>
 }
 export default Country;

@@ -6,7 +6,7 @@ const Headers = () =>{
     return <>
     
     
-    <div className="navbar">
+    <div className="navbar ">
         <div>
         <ul className=" text-gray-700 font-semibold ">
             <li><Link to="/">Home</Link></li>

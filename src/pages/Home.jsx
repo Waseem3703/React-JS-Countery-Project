@@ -1,10 +1,10 @@
 import "../../src/index.css"
-import MapImage from "../../public/map.jpg";
+import MapImage from "../../public/img/map.jpg";
 const Home = () =>{
 
     return <>
     
-    <div className="grid grid-cols-2 items-center gap-4 mt-5 text-blue-950">
+    <div className="grid grid-cols-2 items-center gap-4 mt-5 text-blue-950 ">
         <div>
             <h1 className="text-3xl font-bold">Explore Countries with Real-Time Data</h1>
             <p>Get insights on every country, including population, economy, culture, 

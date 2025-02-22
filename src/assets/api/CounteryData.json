@@ -2,85 +2,164 @@
   {
     "id": 1,
     "country": "United States",
-    "population": 331000000,
-    "capital": "Washington, D.C.",
+    "flag": "https://flagcdn.com/w320/us.png",
     "interesting_fact": "Has 50 states and the world's largest economy."
   },
   {
     "id": 2,
     "country": "China",
-    "population": 1412000000,
-    "capital": "Beijing",
+    "flag": "https://flagcdn.com/w320/cn.png",
     "interesting_fact": "Home to the Great Wall and giant pandas."
   },
   {
     "id": 3,
     "country": "India",
-    "population": 1408000000,
-    "capital": "New Delhi",
+    "flag": "https://flagcdn.com/w320/in.png",
     "interesting_fact": "Second-most populous country with rich cultural and historical heritage."
   },
   {
     "id": 4,
     "country": "Brazil",
-    "population": 214000000,
-    "capital": "Brasília",
+    "flag": "https://flagcdn.com/w320/br.png",
     "interesting_fact": "Largest rainforest, Amazon, is located in this beautiful country."
   },
   {
     "id": 5,
     "country": "Russia",
-    "population": 143000000,
-    "capital": "Moscow",
+    "flag": "https://flagcdn.com/w320/ru.png",
     "interesting_fact": "World's largest country spanning two continents, Europe and Asia."
   },
   {
     "id": 6,
     "country": "Japan",
-    "population": 125000000,
-    "capital": "Tokyo",
+    "flag": "https://flagcdn.com/w320/jp.png",
     "interesting_fact": "Famous for sushi, samurai, cherry blossoms, and advanced technology."
   },
   {
     "id": 7,
     "country": "Germany",
-    "population": 83000000,
-    "capital": "Berlin",
+    "flag": "https://flagcdn.com/w320/de.png",
     "interesting_fact": "Known for beer, engineering, Oktoberfest, and the Autobahn highway."
   },
   {
     "id": 8,
     "country": "United Kingdom",
-    "population": 67000000,
-    "capital": "London",
+    "flag": "https://flagcdn.com/w320/gb.png",
     "interesting_fact": "Comprises England, Scotland, Wales, and Northern Ireland together."
   },
   {
     "id": 9,
     "country": "France",
-    "population": 65000000,
-    "capital": "Paris",
+    "flag": "https://flagcdn.com/w320/fr.png",
     "interesting_fact": "Eiffel Tower, croissants, fashion, and rich artistic heritage."
   },
   {
     "id": 10,
     "country": "Canada",
-    "population": 38000000,
-    "capital": "Ottawa",
+    "flag": "https://flagcdn.com/w320/ca.png",
     "interesting_fact": "Has more lakes than any other country on Earth."
   },
   {
     "id": 11,
     "country": "Australia",
-    "population": 26000000,
-    "capital": "Canberra",
+    "flag": "https://flagcdn.com/w320/au.png",
     "interesting_fact": "Home to kangaroos, Great Barrier Reef, and vast deserts."
   },
   {
     "id": 12,
     "country": "South Africa",
-    "population": 60000000,
-    "capital": "Pretoria",
+    "flag": "https://flagcdn.com/w320/za.png",
     "interesting_fact": "Hosts three capital cities and diverse wildlife reserves."
+  },
+  {
+    "id": 13,
+    "country": "Italy",
+    "flag": "https://flagcdn.com/w320/it.png",
+    "interesting_fact": "Home to the Colosseum and famous Italian cuisine."
+  },
+  {
+    "id": 14,
+    "country": "Spain",
+    "flag": "https://flagcdn.com/w320/es.png",
+    "interesting_fact": "Known for flamenco dance, bullfighting, and La Tomatina festival."
+  },
+  {
+    "id": 15,
+    "country": "Mexico",
+    "flag": "https://flagcdn.com/w320/mx.png",
+    "interesting_fact": "Birthplace of chocolate and home to Chichen Itza."
+  },
+  {
+    "id": 16,
+    "country": "South Korea",
+    "flag": "https://flagcdn.com/w320/kr.png",
+    "interesting_fact": "Famous for K-pop, technology, and delicious Korean BBQ."
+  },
+  {
+    "id": 17,
+    "country": "Argentina",
+    "flag": "https://flagcdn.com/w320/ar.png",
+    "interesting_fact": "Birthplace of tango and home to Patagonia."
+  },
+  {
+    "id": 18,
+    "country": "Egypt",
+    "flag": "https://flagcdn.com/w320/eg.png",
+    "interesting_fact": "Ancient pyramids and the Sphinx attract millions of tourists."
+  },
+  {
+    "id": 19,
+    "country": "Turkey",
+    "flag": "https://flagcdn.com/w320/tr.png",
+    "interesting_fact": "Istanbul spans two continents, Europe and Asia."
+  },
+  {
+    "id": 20,
+    "country": "Saudi Arabia",
+    "flag": "https://flagcdn.com/w320/sa.png",
+    "interesting_fact": "Home to Islam's holiest sites, Mecca and Medina."
+  },
+  {
+    "id": 21,
+    "country": "Thailand",
+    "flag": "https://flagcdn.com/w320/th.png",
+    "interesting_fact": "Land of Smiles, famous for temples and beautiful beaches."
+  },
+  {
+    "id": 22,
+    "country": "Vietnam",
+    "flag": "https://flagcdn.com/w320/vn.png",
+    "interesting_fact": "Rich history, stunning landscapes, and delicious street food."
+  },
+  {
+    "id": 23,
+    "country": "Greece",
+    "flag": "https://flagcdn.com/w320/gr.png",
+    "interesting_fact": "Birthplace of democracy and home to ancient ruins."
+  },
+  {
+    "id": 24,
+    "country": "Netherlands",
+    "flag": "https://flagcdn.com/w320/nl.png",
+    "interesting_fact": "Famous for windmills, tulips, and cycling culture."
+  },
+  {
+    "id": 25,
+    "country": "Sweden",
+    "flag": "https://flagcdn.com/w320/se.png",
+    "interesting_fact": "Known for Vikings, ABBA, and innovative design."
+  },
+  {
+    "id": 26,
+    "country": "Switzerland",
+    "flag": "https://flagcdn.com/w320/ch.png",
+    "interesting_fact": "Famous for chocolate, watches, and breathtaking Alpine scenery."
+  },
+  {
+    "id": 27,
+    "country": "Portugal",
+    "flag": "https://flagcdn.com/w320/pt.png",
+    "interesting_fact": "Birthplace of fado music and famous for port wine."
   }
 ]
+
