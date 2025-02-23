@@ -5,6 +5,9 @@ import Contact from "./pages/Contact.jsx"
 import Country from "./pages/Country.jsx"
 import MainLayout from "./components/AppLayout/MainLayout.jsx";
 import ErrorPage from "./components/UI/ErrorPage.jsx";
+import CounteryDetails from "./pages/CountryDetails.jsx"
+import { HelmetProvider } from "react-helmet-async";
+
 
 const App = () =>{
 
@@ -34,15 +37,24 @@ const router = createBrowserRouter([
             
                 path:"contact",
                 element: <Contact />,
-            },]
+            },
+            {
+                path: "/country/:id",
+                element: <CounteryDetails/>
+            }
+        
+        
+        ]
    }
 
     
 ]);
 
-    return <RouterProvider router={router}>
+    return <HelmetProvider>
+        <RouterProvider router={router}>
 
     </RouterProvider>
+    </HelmetProvider>
 
 };
 

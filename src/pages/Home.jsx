@@ -1,6 +1,20 @@
-import "../../src/index.css"
+import { useState, useEffect } from "react";
+import "../../src/index.css";
 import MapImage from "../../public/img/map.jpg";
+import BoxLayout from "../components/BoxLayout/HomeBoxLayout";
+import CounteryFact from "../../src/assets/api/CounteryData.json"; 
+
 const Home = () =>{
+     
+    const [startIndex, setStartIndex] = useState(0);
+    const limit = 6;
+
+    useEffect(()=>{
+        const interval = setInterval(()=>{
+            setStartIndex((previndex) => (previndex + limit) % CounteryFact.length);
+        }, 10000);
+        return ()=>clearInterval(interval);
+    }, [])
 
     return <>
     
@@ -19,6 +33,7 @@ const Home = () =>{
 
     </div>
     </div>
+    <BoxLayout limit={limit} startIndex={startIndex}/>
     </>
 }
 export default Home;

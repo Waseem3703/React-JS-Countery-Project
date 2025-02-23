@@ -3,163 +3,189 @@
     "id": 1,
     "country": "United States",
     "flag": "https://flagcdn.com/w320/us.png",
-    "interesting_fact": "Has 50 states and the world's largest economy."
+    "interesting_fact": "Has 50 states and the world's largest economy.",
+    "description": "The United States is a federal republic comprising 50 states, a federal district, and several territories. It's known for its diverse culture, technological innovation, and significant global influence in economics, politics, and military affairs."
   },
   {
     "id": 2,
     "country": "China",
     "flag": "https://flagcdn.com/w320/cn.png",
-    "interesting_fact": "Home to the Great Wall and giant pandas."
+    "interesting_fact": "Home to the Great Wall and giant pandas.",
+    "description": "China, officially the People's Republic of China, is the world's most populous country. It boasts a rich history spanning thousands of years and has rapidly become a global economic powerhouse."
   },
   {
     "id": 3,
     "country": "India",
     "flag": "https://flagcdn.com/w320/in.png",
-    "interesting_fact": "Second-most populous country with rich cultural and historical heritage."
+    "interesting_fact": "Second-most populous country with rich cultural and historical heritage.",
+    "description": "India is a South Asian nation known for its diverse cultures, languages, and religions. It's the world's largest democracy and has a fast-growing economy."
   },
   {
     "id": 4,
     "country": "Brazil",
     "flag": "https://flagcdn.com/w320/br.png",
-    "interesting_fact": "Largest rainforest, Amazon, is located in this beautiful country."
+    "interesting_fact": "Largest rainforest, Amazon, is located in this beautiful country.",
+    "description": "Brazil is the largest country in South America, famous for its Amazon rainforest, vibrant festivals like Carnival, and a rich musical heritage including samba and bossa nova."
   },
   {
     "id": 5,
     "country": "Russia",
     "flag": "https://flagcdn.com/w320/ru.png",
-    "interesting_fact": "World's largest country spanning two continents, Europe and Asia."
+    "interesting_fact": "World's largest country spanning two continents, Europe and Asia.",
+    "description": "Russia is the largest country in the world, extending across Eastern Europe and northern Asia. It's known for its rich history, cultural contributions, and significant natural resources."
   },
   {
     "id": 6,
     "country": "Japan",
     "flag": "https://flagcdn.com/w320/jp.png",
-    "interesting_fact": "Famous for sushi, samurai, cherry blossoms, and advanced technology."
+    "interesting_fact": "Famous for sushi, samurai, cherry blossoms, and advanced technology.",
+    "description": "Japan is an island nation in East Asia known for its blend of traditional culture and cutting-edge technology. It's famous for its cuisine, art, and significant contributions to electronics and automotive industries."
   },
   {
     "id": 7,
     "country": "Germany",
     "flag": "https://flagcdn.com/w320/de.png",
-    "interesting_fact": "Known for beer, engineering, Oktoberfest, and the Autobahn highway."
+    "interesting_fact": "Known for beer, engineering, Oktoberfest, and the Autobahn highway.",
+    "description": "Germany is a Western European country with a rich history and a strong economy. It's renowned for its engineering prowess, cultural heritage, and festivals like Oktoberfest."
   },
   {
     "id": 8,
     "country": "United Kingdom",
     "flag": "https://flagcdn.com/w320/gb.png",
-    "interesting_fact": "Comprises England, Scotland, Wales, and Northern Ireland together."
+    "interesting_fact": "Comprises England, Scotland, Wales, and Northern Ireland together.",
+    "description": "The United Kingdom is a sovereign country located off the northwestern coast of mainland Europe. It's known for its historical significance, cultural influence, and as the birthplace of the English language."
   },
   {
     "id": 9,
     "country": "France",
     "flag": "https://flagcdn.com/w320/fr.png",
-    "interesting_fact": "Eiffel Tower, croissants, fashion, and rich artistic heritage."
+    "interesting_fact": "Eiffel Tower, croissants, fashion, and rich artistic heritage.",
+    "description": "France is a Western European nation celebrated for its art, cuisine, and fashion. Paris, its capital, is famed for landmarks like the Eiffel Tower and its influence on culture and politics."
   },
   {
     "id": 10,
     "country": "Canada",
     "flag": "https://flagcdn.com/w320/ca.png",
-    "interesting_fact": "Has more lakes than any other country on Earth."
+    "interesting_fact": "Has more lakes than any other country on Earth.",
+    "description": "Canada is the second-largest country globally, known for its vast natural landscapes, multicultural cities, and a high standard of living."
   },
   {
     "id": 11,
     "country": "Australia",
     "flag": "https://flagcdn.com/w320/au.png",
-    "interesting_fact": "Home to kangaroos, Great Barrier Reef, and vast deserts."
+    "interesting_fact": "Home to kangaroos, Great Barrier Reef, and vast deserts.",
+    "description": "Australia is a country and continent surrounded by the Indian and Pacific oceans. It's known for its unique wildlife, natural wonders like the Great Barrier Reef, and vibrant cities."
   },
   {
     "id": 12,
     "country": "South Africa",
     "flag": "https://flagcdn.com/w320/za.png",
-    "interesting_fact": "Hosts three capital cities and diverse wildlife reserves."
+    "interesting_fact": "Hosts three capital cities and diverse wildlife reserves.",
+    "description": "South Africa is located at the southern tip of Africa. It's renowned for its diverse ecosystems, cultural diversity, and significant history, including the legacy of Nelson Mandela."
   },
   {
     "id": 13,
     "country": "Italy",
     "flag": "https://flagcdn.com/w320/it.png",
-    "interesting_fact": "Home to the Colosseum and famous Italian cuisine."
+    "interesting_fact": "Home to the Colosseum and famous Italian cuisine.",
+    "description": "Italy is a European country with a long Mediterranean coastline. It's known for its rich history, art, and cuisine, with landmarks like the Colosseum and cities like Venice and Florence."
   },
   {
     "id": 14,
     "country": "Spain",
     "flag": "https://flagcdn.com/w320/es.png",
-    "interesting_fact": "Known for flamenco dance, bullfighting, and La Tomatina festival."
+    "interesting_fact": "Known for flamenco dance, bullfighting, and La Tomatina festival.",
+    "description": "Spain is a European country on the Iberian Peninsula. It's famous for its diverse cultures, historic cities, and traditions like flamenco music and dance."
   },
   {
     "id": 15,
     "country": "Mexico",
     "flag": "https://flagcdn.com/w320/mx.png",
-    "interesting_fact": "Birthplace of chocolate and home to Chichen Itza."
+    "interesting_fact": "Birthplace of chocolate and home to Chichen Itza.",
+    "description": "Mexico is a country in the southern part of North America. It's known for its rich cultural heritage, ancient ruins, vibrant festivals, and diverse landscapes."
   },
   {
     "id": 16,
     "country": "South Korea",
     "flag": "https://flagcdn.com/w320/kr.png",
-    "interesting_fact": "Famous for K-pop, technology, and delicious Korean BBQ."
+    "interesting_fact": "Famous for K-pop, technology, and delicious Korean BBQ.",
+    "description": "South Korea is a highly developed country in East Asia, known for its technological advancements, entertainment industry (K-pop and K-dramas), and rich cultural heritage."
   },
   {
     "id": 17,
     "country": "Argentina",
     "flag": "https://flagcdn.com/w320/ar.png",
-    "interesting_fact": "Birthplace of tango and home to Patagonia."
+    "interesting_fact": "Birthplace of tango and home to Patagonia.",
+    "description": "Argentina is the second-largest country in South America, known for its passionate culture, love for football, stunning landscapes, and delicious cuisine including Argentine beef."
   },
   {
     "id": 18,
     "country": "Egypt",
     "flag": "https://flagcdn.com/w320/eg.png",
-    "interesting_fact": "Ancient pyramids and the Sphinx attract millions of tourists."
+    "interesting_fact": "Ancient pyramids and the Sphinx attract millions of tourists.",
+    "description": "Egypt is a North African country famous for its ancient civilization, iconic monuments such as the Great Pyramids of Giza, and the historical Nile River."
   },
   {
     "id": 19,
     "country": "Turkey",
     "flag": "https://flagcdn.com/w320/tr.png",
-    "interesting_fact": "Istanbul spans two continents, Europe and Asia."
+    "interesting_fact": "Istanbul spans two continents, Europe and Asia.",
+    "description": "Turkey is a transcontinental country with a rich history, blending Eastern and Western cultures. It's home to landmarks like Hagia Sophia, Cappadocia, and ancient ruins of Ephesus."
   },
   {
     "id": 20,
     "country": "Saudi Arabia",
     "flag": "https://flagcdn.com/w320/sa.png",
-    "interesting_fact": "Home to Islam's holiest sites, Mecca and Medina."
+    "interesting_fact": "Home to Islam's holiest sites, Mecca and Medina.",
+    "description": "Saudi Arabia is the largest country in the Middle East, known for its vast deserts, oil wealth, and religious significance as the birthplace of Islam."
   },
   {
     "id": 21,
     "country": "Thailand",
     "flag": "https://flagcdn.com/w320/th.png",
-    "interesting_fact": "Land of Smiles, famous for temples and beautiful beaches."
+    "interesting_fact": "Land of Smiles, famous for temples and beautiful beaches.",
+    "description": "Thailand is a Southeast Asian country known for its tropical beaches, ornate temples, bustling street markets, and rich cultural traditions."
   },
   {
     "id": 22,
     "country": "Vietnam",
     "flag": "https://flagcdn.com/w320/vn.png",
-    "interesting_fact": "Rich history, stunning landscapes, and delicious street food."
+    "interesting_fact": "Rich history, stunning landscapes, and delicious street food.",
+    "description": "Vietnam is a Southeast Asian country with a vibrant culture, stunning landscapes like Ha Long Bay, and a thriving culinary scene known for dishes like pho and banh mi."
   },
   {
     "id": 23,
     "country": "Greece",
     "flag": "https://flagcdn.com/w320/gr.png",
-    "interesting_fact": "Birthplace of democracy and home to ancient ruins."
+    "interesting_fact": "Birthplace of democracy and home to ancient ruins.",
+    "description": "Greece is a Mediterranean country with a rich historical legacy, known for ancient ruins like the Parthenon, beautiful islands, and its contributions to philosophy and democracy."
   },
   {
     "id": 24,
     "country": "Netherlands",
     "flag": "https://flagcdn.com/w320/nl.png",
-    "interesting_fact": "Famous for windmills, tulips, and cycling culture."
+    "interesting_fact": "Famous for windmills, tulips, and cycling culture.",
+    "description": "The Netherlands is a European country known for its picturesque canals, progressive culture, and historical sites like Anne Frank's house and the Van Gogh Museum."
   },
   {
     "id": 25,
     "country": "Sweden",
     "flag": "https://flagcdn.com/w320/se.png",
-    "interesting_fact": "Known for Vikings, ABBA, and innovative design."
+    "interesting_fact": "Known for Vikings, ABBA, and innovative design.",
+    "description": "Sweden is a Scandinavian country known for its breathtaking natural beauty, advanced technology, and cultural exports like ABBA and IKEA."
   },
   {
     "id": 26,
     "country": "Switzerland",
     "flag": "https://flagcdn.com/w320/ch.png",
-    "interesting_fact": "Famous for chocolate, watches, and breathtaking Alpine scenery."
+    "interesting_fact": "Famous for chocolate, watches, and breathtaking Alpine scenery.",
+    "description": "Switzerland is a landlocked European country known for its neutrality, stunning mountain landscapes, and high-quality products like Swiss watches and chocolate."
   },
   {
     "id": 27,
     "country": "Portugal",
     "flag": "https://flagcdn.com/w320/pt.png",
-    "interesting_fact": "Birthplace of fado music and famous for port wine."
+    "interesting_fact": "Birthplace of fado music and famous for port wine.",
+    "description": "Portugal is a southern European country with a rich maritime history, famous for its beautiful coastline, historic cities like Lisbon and Porto, and delicious cuisine including pastéis de nata."
   }
 ]
-
