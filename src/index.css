@@ -1,41 +1,74 @@
 @import "tailwindcss";
 
-body{
-   max-width: 1050px;
-   margin: auto;
+body {
+    max-width: 1050px;
+    margin: auto;
+    padding: 0 15px; 
 }
-.footer {
-   display: flex;
-   padding: 10px;
-   color: black;
-   padding: 0px;
-   overflow-y: hidden;
-}
-.footer-left{
-   margin-left: auto;
 
-}
- .navbar{
+.footer {
     display: flex;
+    flex-wrap: wrap; 
     padding: 10px;
+    color: black;
+    overflow-y: hidden;
     justify-content: center;
-    align-items: center; 
+}
+
+.footer-left {
+    margin-left: auto;
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     background-color: #ffffff;
     margin: 0px;
     padding: 0px;
-    overflow-y: hidden; 
-    margin-bottom: 30px;  
+    overflow-y: hidden;
+    margin-bottom: 30px;
+}
 
-   }
-   .navbar ul li:hover{
-    cursor: pointer;
-    
-   }
-   .navbar ul, .footer ul{
+.navbar ul, .footer ul {
     display: flex;
     gap: 20px;
     padding: 15px;
+    list-style: none;
+}
 
-   }
+/* Hover Effect */
+.navbar ul li:hover {
+    cursor: pointer;
+}
 
+@media (max-width: 768px) {
+    .navbar ul, .footer ul {
+        flex-direction: column; /* Stack items vertically */
+        gap: 10px;
+        align-items: center; /* Center items */
+        text-align: center;
+    }
 
+    .footer {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .footer-left {
+        margin-left: 0;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        max-width: 100%;
+        padding: 0 10px;
+    }
+
+    .navbar ul, .footer ul {
+        gap: 5px;
+    }
+}
