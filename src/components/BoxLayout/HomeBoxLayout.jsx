@@ -1,11 +1,11 @@
 import { useNavigate } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
-import CounteryFact from "../../../src/assets/api/CounteryData.json";
+import CountryFact from "../../../src/assets/api/CounteryData.json";
 
 const BoxLayout = ({ startIndex, limit }) => {
   const navigate = useNavigate();
   
-  const displayedCountries = CounteryFact.slice(startIndex, startIndex + limit);
+  const displayedCountries = CountryFact.slice(startIndex, startIndex + limit);
 
   return (
     <>
